@@ -1,6 +1,5 @@
 
 import streamlit as st
-st.set_option("server.maxUploadSize", 500)
 
 import tempfile
 import os
