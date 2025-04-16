@@ -1,4 +1,5 @@
+
 streamlit
-vidstab
 opencv-python
-imutils
+vidstab
+numpy
